@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Данные: откуда? Коды и классификаторы макроэкономической статистики"
+message: "Если материалы использованы в публикации или выступлении, пожалуйста, сошлитесь так."
+type: dataset
+authors:
+  - name: "exit10.ru"
+    website: "https://exit10.ru"
+repository-code: "https://github.com/MikeMike13/CLASSIFIERS"
+url: "https://exit10.ru"
+abstract: >-
+  Презентация о кодах и классификаторах макроэкономической статистики: международные
+  стандарты и их версии, перенос в российскую практику, ответственные ведомства,
+  сопоставимость со статистикой компаний и предстоящие изменения. Две языковые версии.
+keywords:
+  - classifications
+  - national accounts
+  - macroeconomic statistics
+  - ISIC
+  - COICOP
+  - классификаторы
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+date-released: 2026-10-11
+version: "1.0"
